@@ -16,6 +16,7 @@ android {
 
 dependencies {
     api libs.androidx.lifecycle.runtime
+    api libs.androidx.lifecycle.viewmodel
 
     implementation project(':conductor')
 }
